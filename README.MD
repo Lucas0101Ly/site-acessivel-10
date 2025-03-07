@@ -13,3 +13,5 @@ Refatoração de um site implementando recursos de acessibilidade no html, css e
 - HTML
 - CSS
 - JS
+## Referencias
+- Alura
